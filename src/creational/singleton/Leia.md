@@ -1,0 +1,1 @@
+Singleton é um padrão de projeto com uma master class, resposnsavel por intanciar objs de diferentes tipos e proprositos.

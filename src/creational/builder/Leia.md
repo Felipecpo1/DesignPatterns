@@ -1,0 +1,2 @@
+O professor criou classes abstratas para o meal box, e classes abstratas para os meals. Assim como suas classes concretas.
+Uma meal box é composta por meals. Assim, foi explicado o padrão Composed, usado no ensinamento para chegar ao Builder.
