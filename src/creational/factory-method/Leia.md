@@ -1,0 +1,2 @@
+Apos criar os vehicles e as factories para os vehicles, o client-code cria os objtos atraves dos factories sem precisar alterar o codigo das factories.
+é mais interessante que haja dependencia da factory do que da classe concreta.
