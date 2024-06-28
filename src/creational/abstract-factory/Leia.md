@@ -1,0 +1,2 @@
+O abstract factory serve para criar interfaces e classes abstratas para separar duas familias de objs que seriam incompativeis umas com as outras (nesse caso, os clientes dos carros que serão chamados), ocultando do codigo cliente, as classes do projeto. 
+as Factories da pasta factories ficarão responsaveis pela instanciação dos novos objetos.
